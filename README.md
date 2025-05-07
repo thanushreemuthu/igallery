@@ -34,21 +34,21 @@ Publish the website in the given URL.
 </head>
 <body>
     <header style="text-align: center; background-color: #333; color: white; padding: 1rem 0;">
-        <h1>Actor Vijay</h1>
+        <h1>Disney Princess</h1>
     </header>
 
     <div style="white-space: nowrap; overflow-x: auto; padding: 1rem;">
         <div style="display: inline-block; margin-right: 10px;" onclick="openModal(this)">
-            <img src="kandangi.jpg" style="height: 200px;">
+            <img src="im1.jpg" style="height: 200px;">
         </div>
         <div style="display: inline-block; margin-right: 10px;" onclick="openModal(this)">
-            <img src="jilla.jpg" style="height: 200px;">
+            <img src="im2.jpg" style="height: 200px;">
         </div>
         <div style="display: inline-block; margin-right: 10px;" onclick="openModal(this)">
-            <img src="bairava.jpg" style="height: 200px;">
+            <img src="im3.jpg" style="height: 200px;">
         </div>
         <div style="display: inline-block;" onclick="openModal(this)">
-            <img src="vj.jpg" style="height: 200px;">
+            <img src="im4.jpg" style="height: 200px;">
         </div>
     </div>
 
@@ -71,8 +71,10 @@ Publish the website in the given URL.
     </script>
 </body>
 </html>
+
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/8882afcf-709e-4f08-9f70-5fbfa9b9a9a9)
+![Screenshot 2025-05-07 155856](https://github.com/user-attachments/assets/3e26581c-9e5d-4d7e-80a8-7fddec409596)
+
 
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
